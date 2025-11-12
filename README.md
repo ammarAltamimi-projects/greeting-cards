@@ -68,7 +68,7 @@ Enter your name, choose a theme, preview an animation, then **download** or **sh
 
 ## 🚀 Live Demo
 
-Experience the app yourself: [**View Live Demo on Vercel**](https://masdar-my-design.vercel.app/en) – *(choose English or Arabic interface as desired)*.
+Experience the app yourself: [**View Live Demo**](https://www.masdarcard.app/ar) – *(choose English or Arabic interface as desired)*.
 
 
 ---
